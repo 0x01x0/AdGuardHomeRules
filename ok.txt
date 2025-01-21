@@ -1,18 +1,16 @@
-@@||analytics.google.com^
-@@||analytics.twitter.com^
+@@||analytics.google.com
+@@||analytics.twitter.com
 @@||azure.com^
 @@||microsoft.com^
 @@||gstatic.com^
 @@||windows.com^
 @@||live.com^
-@@||google-analytics.com^
 @@||maccms.com^
 @@||gvt2.com^
 @@||googleapis.com^
 @@||www.paypalobjects.com^
 @@||paypal.com^
 @@||amazon.com^
-@@||fonts.gstatic.com^
 @@||search.google.com^
 @@||squareup.com^
 @@||boc.cn^
@@ -50,10 +48,14 @@
 @@||signals.aimtell.com^
 @@||cdn.siftscience.com^
 @@||intuit.com^
-
+@@||baidu-ide.bj.bcebos.com^
+@@||sec.resource.xiaomi.net^
 
 
 @@||ad.jp^
+@@/default.cn.*.wagbridge.ad.alibabacorp.com/
+@@/default.cn.*.wagbridge.ad.alibabacorp.com.gds.alibabadns.com/
+
 
 @@||tagtic.cn^
 @@||knet.cn^
